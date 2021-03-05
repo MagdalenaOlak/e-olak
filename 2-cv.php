@@ -230,8 +230,7 @@ A
 
 <!--  --->
 <div style=" margin-bottom: 15px; margin-left: -30px;  padding-left: 30px;  padding-bottom: 5px; padding-top: 5px;font-weight: bold; color: White; background-color: Navy;">
-<h4>Programowanie
-i&nbsp;Grafika
+<h4>Narzędzia
 </h4>
 </div>
 
@@ -293,6 +292,33 @@ A
 <p  style=" clear:both; text-align: right;  margin-right: 10%;  padding-bottom: 5px;">dobry</p>
 --->
 
+
+<div  style=" float: left; ">Selenium</div>
+<div style="  margin-right: 10%; float: right ; text-align: right; width: 50%; ">
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background-color: ##6173f4;; " >c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background-color: ##6173f4;; ">c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background: #6173f4">c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background: #6173f4">c</div>
+<div style=" float: left ;width: 15%; color: Navy; background-color: Navy;">
+A
+</div>
+</div>
+<br><br><br>
+<!--
+<p  style=" clear:both; text-align: right;  margin-right: 10%;  padding-bottom: 5px;">dobry</p>
+--->
 
 
 
@@ -384,6 +410,32 @@ A
 <p  style=" clear:both; text-align: right;  margin-right: 10%; padding-bottom: 5px;">celujący</p>
 --->
 
+<div  style=" float: left; ">Postman</div>
+<div style="  margin-right: 10%; float: right ; text-align: right; width: 50%; ">
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background-color: ##6173f4;; " >c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background-color: ##6173f4;; ">c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background: #6173f4">c</div>
+<div style=" float: left ;width: 15%; color: White; background-color: White;">
+A
+</div>
+<div style=" float: left ; width: 5%; color: #6173f4;; background: #6173f4">c</div>
+<div style=" float: left ;width: 15%; color: Navy; background-color: Navy;">
+A
+</div>
+</div>
+<br><br><br>
+<!--
+<p  style=" clear:both; text-align: right;  margin-right: 10%;  padding-bottom: 5px;">dobry</p>
+--->
 
 
 <div  style=" float: left; ">UML</div>
@@ -686,8 +738,8 @@ A
                         <ul style=" list-style-type: disc; list-style-position: outside;">
 
                             <li>Umiejętność pisania scenariuszy i przypadków testowych.
-                            <li>Podstawowa znajomość narzędzi do automatyzacji testów (Postman, Selenium).
-                            <li>Znajomość systemów android, iOS, Windows.
+                            <li>Podstawowa znajomość narzędzi do automatyzacji testów (Postman, Selenium, SoapUI).
+                            <li>Znajomość systemów android, iOS, Windows, Linux.
                             <li>Instalacja i konfiguracja maszyn wirtualnych (Linux).
                             <li>Biegła obsługa programów biurowych, kadrowych, księgowych i aplikacji WEB.
                             <li>Umiejętność pracy indywidualnej - doskonalona podczas prowadzenia sklepu internetowego.
